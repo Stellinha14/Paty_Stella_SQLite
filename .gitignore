@@ -1,0 +1,13 @@
+# Dependências
+node_modules
+package-lock.json
+
+# Pastas de Build
+/android/
+/ios/
+
+# Cache do Expo
+.expo/
+.react-native/
+npm-debug.log*
+.DS_Store

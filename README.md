@@ -1,6 +1,6 @@
-# Paty e Stella — SQLite :iphone:
+# App utilizando SQLite :iphone:
 
-**Aplicativo em React com SQLite desenvolvido pelas alunas Patricia e Stella.**
+**Aplicativo em React com SQLite desenvolvido no 3° do curso técnico em Informática para Internet**
 
 ---
 
